@@ -6,9 +6,9 @@ var xhr = new XMLHttpRequest();
 xhr.open('GET', "https://www.google.co.in/");
 xhr.withCredentials = true;
 xhr.onload = function () {
-    alert(`b0rn2r00t`);
-    alert(`document.cookie`);
-    alert(`document.domain`);
+    document.write(`b0rn2r00t`);
+    document.write(`document.cookie`);
+    document.write(document.domain);
 };
 xhr.send();
 </script>
