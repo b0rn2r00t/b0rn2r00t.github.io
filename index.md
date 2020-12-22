@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<center><body>
+<center>
 <h2> Hi, I'm Shubham Ingle! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
 <p><em>Associate Consultant at <a href="https://proviseconsulting.com/">Provise</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em></p>
@@ -18,7 +15,4 @@
 ---
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/b0rn2r00t)
-
-</body>
-</centre>
-  </html>
+</center>
