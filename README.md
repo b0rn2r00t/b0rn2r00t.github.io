@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+<h2> Hi, I'm Shubham Ingle! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
+<p><em>Associate Consultant at <a href="https://proviseconsulting.com/">Provise</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </em></p>
 
-You can use the [editor on GitHub](https://github.com/b0rn2r00t/b0rn2r00t.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Dipak's github trophy](https://github-profile-trophy.vercel.app/?username=b0rn2r00t&theme=dracula)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Lets Get Social</em>
+<p>
 
-### Markdown
+<a href="mailto:ingle.shubhamyi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ingle.shubhamyi@gmail.com" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/b0rn2r00t/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/b0rn2r00t/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/b0rn2r00t/b0rn2r00t.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/b0rn2r00t)
