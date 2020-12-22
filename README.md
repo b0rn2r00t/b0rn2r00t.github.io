@@ -13,4 +13,4 @@
 </div>
 ---
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/b0rn2r00t)
+![Hits] (https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/b0rn2r00t)
