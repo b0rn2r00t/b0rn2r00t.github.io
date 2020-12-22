@@ -3,7 +3,7 @@
 <p><em>Associate Consultant at <a href="https://proviseconsulting.com/">Provise</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em></p>
 
-![Dipak's github trophy](https://github-profile-trophy.vercel.app/?username=b0rn2r00t&theme=dracula)
+![b0rn2r00t's github trophy](https://github-profile-trophy.vercel.app/?username=b0rn2r00t&theme=dracula)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Lets Get Social</em>
 <p>
