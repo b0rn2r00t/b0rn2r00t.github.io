@@ -17,4 +17,4 @@ title: Profile
 <a href="https://www.instagram.com/b0rn2r00t/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 
-[Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/b0rn2r00t)
+![HITS](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/b0rn2r00t)
