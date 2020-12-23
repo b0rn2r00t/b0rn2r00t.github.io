@@ -6,6 +6,8 @@ title: Profile
 <h2> Hi, I'm Shubham Ingle! <img src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif" width="90"></h2>
 <p><em>Associate Consultant at <a href="https://proviseconsulting.com/">Provise</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em></p>
+ 
+ ![HTB Badge](https://www.hackthebox.eu/badge/3484)
 
 ![b0rn2r00t's github trophy](https://github-profile-trophy.vercel.app/?username=b0rn2r00t&theme=dracula)
 
