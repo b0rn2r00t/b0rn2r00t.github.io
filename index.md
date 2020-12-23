@@ -15,5 +15,5 @@
 <a href="mailto:ingle.shubhamyi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ingle.shubhamyi@gmail.com" alt="Gmail"></a>  <a href="https://www.linkedin.com/in/b0rn2r00t/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  <a href="https://www.instagram.com/b0rn2r00t/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://twitter.com/b0rn2r00t"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-![HITS](https://img.shields.io/jsdelivr/gh/hd/b0rn2r00t/b0rn2r00t.github.io?color=Green&label=Hits&logo=Github&style=for-the-badge)
+![HITS](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/b0rn2r00t)
 </center>
