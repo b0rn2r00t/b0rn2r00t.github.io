@@ -1,9 +1,5 @@
----
-layout: post
-title: Profile
----
-
-<img class="bg" src="/img/bg-01.jpeg" />
+<center>
+<img src="/img/bg-01.jpeg" />
 
 <h2> Hi, I'm Shubham Ingle! <img src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif" width="90"></h2>
 
@@ -20,3 +16,4 @@ title: Profile
 </p>
 
 ![HITS](https://img.shields.io/jsdelivr/gh/hd/b0rn2r00t/b0rn2r00t.github.io?color=Green&label=Hits&logo=Github&style=for-the-badge)
+</center>
