@@ -4,3 +4,5 @@ relative_links:
   enabled: true
   collections: true
 markdown: kramdown
+
+theme: jekyll-theme-dinky
