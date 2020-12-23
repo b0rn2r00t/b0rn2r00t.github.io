@@ -7,7 +7,7 @@ title: Profile
 <p><em>Associate Consultant at <a href="https://proviseconsulting.com/">Provise</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em></p>
 
-<a href="https://app.hackthebox.eu/profile/3484"></a><script src="./htb_badge.js"></script>
+<a href="https://app.hackthebox.eu/profile/3484"></a><script src="htb_badge.js"></script>
 
 ![b0rn2r00t's github trophy](https://github-profile-trophy.vercel.app/?username=b0rn2r00t&theme=dracula)
 
