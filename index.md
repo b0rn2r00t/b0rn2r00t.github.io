@@ -1,11 +1,11 @@
 <body style="background-color:#282828;">
 <center>
 <h2> Hi, I'm Shubham Ingle! <img src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif" width="90"></h2>
-
+<p>
 <a href="https://www.credential.net/profile/shubhamingle340351/wallet"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/27041597" alt="Pentester Academy"></a>
 <a href="https://www.credential.net/profile/shubhamingle340351/wallet"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/27067664" alt="Pentester Academy"></a>
 <a href="https://www.credential.net/profile/shubhamingle340351/wallet"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/29226106" alt="Pentester Academy"></a>
-
+</p>
 <a href="https://app.hackthebox.eu/profile/3484"><img src="http://www.hackthebox.eu/badge/image/3484" alt="Hack The Box"></a>
 <p>
 ![b0rn2r00t's github trophy](https://github-profile-trophy.vercel.app/?username=b0rn2r00t&theme=dracula)
