@@ -8,14 +8,13 @@
 </p>
 <a href="https://app.hackthebox.eu/profile/3484"><img src="http://www.hackthebox.eu/badge/image/3484" alt="Hack The Box"></a>
 <p>
-![b0rn2r00t's github trophy](https://github-profile-trophy.vercel.app/?username=b0rn2r00t&theme=dracula)
-
+<iframe src="https://github-profile-trophy.vercel.app/?username=b0rn2r00t&theme=dracula" title="b0rn2r00t's github trophy"> 
 <em><b>Lets Get Social</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 <a href="https://www.linkedin.com/in/b0rn2r00t/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  <a href="https://www.instagram.com/b0rn2r00t/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://twitter.com/b0rn2r00t"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 
+<iframe src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/b0rn2r00t" title="HITS"> 
 
-![HITS](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/b0rn2r00t)
 </p>
 </center>
 </body>
