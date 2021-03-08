@@ -1,19 +1,19 @@
 <body style="background-color:#282828;">
 <center>
-<h2> Hi, I'm Shubham Ingle! <img src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif" width="90"></h2>
+<h2> Hi, I'm Shubham Ingle!<a href="https://app.hackthebox.eu/profile/3484"><img src="http://www.hackthebox.eu/badge/image/3484" alt="Hack The Box"></a></h2>
 <p>
 <a href="https://www.credential.net/profile/shubhamingle340351/wallet"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/27041597" alt="Pentester Academy"></a>
 <a href="https://www.credential.net/profile/shubhamingle340351/wallet"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/27067664" alt="Pentester Academy"></a>
 <a href="https://www.credential.net/profile/shubhamingle340351/wallet"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/29226106" alt="Pentester Academy"></a>
 </p>
-<a href="https://app.hackthebox.eu/profile/3484"><img src="http://www.hackthebox.eu/badge/image/3484" alt="Hack The Box"></a>
+
 <p>
-<iframe src="https://github-profile-trophy.vercel.app/?username=b0rn2r00t&theme=dracula" title="b0rn2r00t's github trophy"> 
+<iframe src="https://github-profile-trophy.vercel.app/?username=b0rn2r00t&theme=dracula" height="200" width="300"  title="b0rn2r00t's github trophy"></iframe> 
 <em><b>Lets Get Social</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 <a href="https://www.linkedin.com/in/b0rn2r00t/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  <a href="https://www.instagram.com/b0rn2r00t/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://twitter.com/b0rn2r00t"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 
-<iframe src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/b0rn2r00t" title="HITS"> 
+<iframe src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/b0rn2r00t" title="HITS"></iframe>
 
 </p>
 </center>
