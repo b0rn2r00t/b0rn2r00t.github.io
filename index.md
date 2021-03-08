@@ -1,7 +1,5 @@
 <h2> Hi, I'm Shubham Ingle! <img src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif" width="90"></h2>
 
-<p><em>Associate Consultant at <a href="https://proviseconsulting.com/">Provise</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
-
 <a href="https://www.credential.net/profile/shubhamingle340351/wallet"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/27041597" alt="Pentester Academy"></a>
 
 <a href="https://app.hackthebox.eu/profile/3484"><img src="http://www.hackthebox.eu/badge/image/3484" alt="Hack The Box"></a>
